@@ -1,0 +1,62 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+
+.imagem-noticia{
+  height: 350px;
+}
+
+#semtraco{
+    text-decoration: none;
+}
+
+.espaco-cima{
+  margin-top:30px;
+}
+
+.espaco-lado{
+  margin-left: 50%;
+}
+
+.tamanho-imagem{
+  height: 100%;
+  width: 100%;
+}
+.tamanho-banner{
+  height: 70%;
+  width: 70%;
+}
+
+.centralizar{
+  margin-left: 5%;
+}
+
+.texto-pergunta{
+  font-weight: bold;
+}
+.texto-resposta{
+  font-style: italic;
+}
+
+.centro{
+  margin: auto;
+  width: 90%;  
+  padding: 10px;
+}
+
+.moldura{
+  border: 2px solid white;
+  
+}
+
+.alinhar-texto{
+  text-align: center;
+}
+
+#jumbotron{
+background-image: url(/imagens/banner.jpg); 
+background-size: cover;
+height: 100%;
+width: 100%;
+}
